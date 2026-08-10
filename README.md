@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,35:F2994A,70:E74C3C,100:2F80ED&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,35:F2994A,70:E74C3C,100:2F80ED&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Medical%20AI%20%7C%20Digital%20Pathology%20%7C%20Computer%20Vision&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-2E8B57?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 <a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-F2994A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Khon%20Kaen%20University-2F80ED?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/H--Index-5-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/Citations-80-F2994A?style=flat-square" />
+<img src="https://img.shields.io/badge/Research%20Interest%20Score-63.9-2F80ED?style=flat-square" />
 
 </div>
 
@@ -12,9 +18,9 @@
 
 ![About](https://img.shields.io/badge/-About-2E8B57?style=for-the-badge)
 
-I'm a **Research Assistant** at the Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, where I build AI systems that turn cameras and smartphones into diagnostic and surveillance tools. My background is in **Applied Statistics** — I lean on that statistical grounding whenever I design or evaluate a model, not just when I train one.
+I'm **Peckkie**, a researcher in the **Department of Statistics, Faculty of Science, Khon Kaen University**, based in the **Visual Intelligence (VI) Lab**. My work applies AI to problems in medicine and public health — reading pathology and ultrasound images, interpreting nanosensor and metabolomic data, and turning smartphones into low-cost diagnostic devices for settings where lab equipment isn't available.
 
-Most of my work lives at the intersection of **computer vision** and **healthcare / security**: teaching models to read ultrasound scans, dental shades, blood tests, and CCTV footage the way a trained human would, then packaging that into something that runs on ordinary hardware — a phone, a small edge device, a low-cost camera.
+I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolomics, Nanodiagnostics, and Mobile Health (mHealth)** — with a statistics background that shapes how I design, validate, and interpret every model.
 
 <br>
 
@@ -22,31 +28,40 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**🟢 Modeling**
-- Deep Learning (CNN / RNN)
-- Computer Vision
-- Transfer Learning
+**Medical AI**
+- Digital Pathology
+- Biomedical Image Analysis
+- Ultrasound & CT Imaging
 - Explainable AI
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**🔵 Data & Stats**
-- Applied Statistics
-- Experimental Design
-- Data Annotation Pipelines
-- Data Visualization
+**Diagnostics**
+- Nanodiagnostics
+- Metabolomics
+- Parasite & Cancer Detection
+- Mobile Health (mHealth)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**🟠 Tooling**
+**Computer Vision**
+- Deep Learning (CNN / RNN)
+- Image Processing
+- Low-resource AI Deployment
+- Transfer Learning
+
+</td>
+<td valign="top" width="25%">
+
+**Foundations**
+- Statistical Analysis
+- Experimental Design
 - Python · TensorFlow · PyTorch
 - OpenCV · scikit-learn
-- Cloud Deployment
-- Git / GitHub
 
 </td>
 </tr>
@@ -54,39 +69,50 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 
 <br>
 
-![Research timeline](https://img.shields.io/badge/-Research%20Timeline-E74C3C?style=for-the-badge)
+![Research timeline](https://img.shields.io/badge/-Selected%20Publications-E74C3C?style=for-the-badge)
 
 | Year | Project | What it does |
 |---|---|---|
-| 2020–2023 | 🟢 **BiTNet** | Hybrid deep CNN reading ultrasound images of the human biliary tract, with attention-based explainability — published in *Artificial Intelligence in Medicine* |
-| 2021–2025 | 🔵 **Opisthorchiasis Rapid-Test Reader** | Computer vision that reads smartphone photos of rapid diagnostic tests for mass parasite screening — published in *Scientific Reports* |
-| 2022 | 🟠 **DentShadeAI** | Camera-based automatic dental shade matching, calibrated across different phone models |
-| 2023 | 🔴 **Concealed-Weapon Detection** | Movement-analysis deep learning models for detecting concealed weapons from CCTV — the subject of my MSc thesis |
-| 2023 | 🟢 **Smartphone Biomarker Detection** | CV pipelines reading quantum-dot fluorescence and gold-nanoparticle color change for cancer-DNA and cytosine detection |
-| 2024 | 🔵 **Portable Ultrasound Screening** | CNNs for upper-abdominal abnormality detection, optimized to run on portable medical devices |
+| 2026 | **TinyAct** | Real-time action recognition in the cloud via distillation learning — *PLOS One* |
+| 2025 | **AI-Enhanced Diagnostic Testing** | Smartphone-based reading platform for mass opisthorchiasis (parasite) screening — *Scientific Reports* |
+| 2025 | **AISIM** | Evaluating UI elements of an AI-assisting diagnostic tool — *PLOS One* |
+| 2024 | **CONG** | A human-tracking dataset built with a hidden evaluation twist — KST 2024 |
+| 2024 | **Parasite Egg Detection** | Tackling the out-of-domain problem in wild-collected microscopy images — *Heliyon* |
+| 2023 | **BiTNet** | Hybrid deep CNN reading ultrasound images of the biliary tract, with attention-based explainability — *Artificial Intelligence in Medicine* |
+| 2023 | **Nanosensor Diagnostics** | Machine-learning-assisted smartphone readers for carbon quantum dot and gold-nanoparticle biomarker/DNA detection — *ACS Applied Materials & Interfaces*, *RSC Advances* |
+| 2022 | **DentShadeAI** | Camera-based automatic dental shade matching, calibrated across phone models — ITC-CSCC 2022 |
 
 <br>
 
-![Publications](https://img.shields.io/badge/-Publications-2F80ED?style=for-the-badge)
+![Publications](https://img.shields.io/badge/-Full%20Publication%20List-2E8B57?style=for-the-badge)
 
-Co-authored work in **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence in Medicine***, ***PLOS ONE***, ***Scientific Reports***, ***Heliyon***, ***Nanoscale***, and ***ACS Applied Materials & Interfaces*** — mostly on computer vision applied to medical and diagnostic imaging.
+12 peer-reviewed papers across **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence in Medicine***, ***PLOS One***, ***Scientific Reports***, ***Heliyon***, ***RSC Advances***, and ***ACS Applied Materials & Interfaces*** — spanning medical imaging, nanodiagnostics, and applied computer vision.
 
-→ Full list on [ResearchGate](https://www.researchgate.net/profile/Yupaporn-Wanna)
+→ Full list with citations on [ResearchGate](https://www.researchgate.net/profile/Yupaporn-Wanna)
 
 <br>
 
-![Recognition](https://img.shields.io/badge/-Recognition-E74C3C?style=for-the-badge)
+![Recognition](https://img.shields.io/badge/-Recognition-F2994A?style=for-the-badge)
 
-- 🏅 **NRCT Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
+- 🏅 **NRCT Invention and Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
 - 🏅 **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," DEPA
 - 🥈 **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application, NSTDA
-- 🎓 Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University (2019–2021)
+- 🎓 Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University — 2019–2021 (×3)
+- 🎖️ Honorable Mention, KU Data Science Boot Camp Competition #2 — 2018
+- 🎖️ Academic Excellence Award — 2017–2018 (×2)
+
+<br>
+
+![Funding](https://img.shields.io/badge/-Research%20%26%20Startup%20Funding-2F80ED?style=for-the-badge)
+
+- 💰 **Youth Startup Fund 2021** — 100,000 THB, TED-Fund (ideation stage)
+- 💰 **Business Brotherhood 2021** — 200,000 THB, KKU Science Park
 
 <br>
 
 <div align="center">
 
-*Open to collaboration on AI, computer vision, and applied-statistics research.*
+*Open to collaboration on medical AI, digital pathology, and applied-statistics research.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,35:E74C3C,70:F2994A,100:2E8B57&height=100&section=footer" width="100%"/>
 
