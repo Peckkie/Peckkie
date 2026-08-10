@@ -1,85 +1,93 @@
-[![IEEE publication](https://img.shields.io/badge/IEEE-Publication-blue?style=for-the-badge&logo=ieee&logoColor=white)](https://www.researchgate.net/profile/Yupaporn-Wanna)
-[![PLOS ONE](https://img.shields.io/badge/PLOS%20ONE-Publication-orange?style=for-the-badge)](https://www.researchgate.net/profile/Yupaporn-Wanna)
-[![Python Deep Learning](https://img.shields.io/badge/Python-Deep%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Computer Vision](https://img.shields.io/badge/Computer-Vision-9146FF?style=for-the-badge)](#)
-[![NRCT Innovation Award](https://img.shields.io/badge/NRCT-Innovation%20Award-E95420?style=for-the-badge)](#)
+<div align="center">
 
-# Hello, I'm Yupaporn Wanna (Peckkie)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,100:1A936F&height=200&section=header&text=Yupaporn%20Wanna&fontSize=48&fontColor=ffffff&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlign=50&animation=fadeIn" width="100%"/>
 
-> Research Assistant and AI Engineer working from academic research to applied computer vision and healthcare AI systems.
+<a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
+<a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-w__yupaporn%40kkumail.com-1A936F?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Khon%20Kaen%20University-Visual%20Intelligence%20Lab-0F4C5C?style=flat-square" />
 
-I am a Research Assistant at the **Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University**, Thailand. I hold an MSc in Applied Statistics and a BSc in Statistics Information, both from Khon Kaen University. My work sits at the intersection of **artificial intelligence, machine learning, deep learning, computer vision, data science, and cloud computing**, with an applied focus on medical AI, security/surveillance systems, and smartphone-based diagnostic tools.
+</div>
 
----
+<br>
 
-## Research focus
+## 👩🏻‍🔬 About
 
-[#research-focus](#research-focus)
+I'm a **Research Assistant** at the Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, where I build AI systems that turn cameras and smartphones into diagnostic and surveillance tools. My background is in **Applied Statistics** (MSc, GPA 3.83) — I lean on that statistical grounding whenever I design or evaluate a model, not just when I train one.
 
-### AI & Computer Vision Researcher
+Most of my work lives at the intersection of **computer vision** and **healthcare / security**: teaching models to read ultrasound scans, dental shades, blood tests, and CCTV footage the way a trained human would, then packaging that into something that runs on ordinary hardware — a phone, a small edge device, a low-cost camera.
 
-I develop deep learning systems for image and video analysis, spanning CNN/RNN architectures for behavior and object detection, medical image analysis, and mobile-camera-based diagnostic tools. My master's thesis focused on human concealed-weapon detection in CCTV footage via movement analysis, building on earlier work learning from YouTube surveillance video.
+<br>
 
-[![Research and AI tools](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn)](#)
+## 🧬 What I work with
 
-Deep Learning · Computer Vision · CNN/RNN · Transfer Learning · Explainable AI (XAI) · Medical Imaging
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Data Science & Statistics
+**Modeling**
+- Deep Learning (CNN / RNN)
+- Computer Vision
+- Transfer Learning
+- Explainable AI
 
-My academic foundation is in applied statistics, which underpins my work on model evaluation, experimental design, and data-driven decision making across multiple research projects.
+</td>
+<td valign="top" width="33%">
 
-[![Data science tools](https://skillicons.dev/icons?i=py,r,pandas,numpy,jupyter)](#)
+**Data & Stats**
+- Applied Statistics
+- Experimental Design
+- Data Annotation Pipelines
+- Data Visualization
 
-Statistical Modeling · Data Preprocessing & Annotation · Experiment Design · Data Visualization
+</td>
+<td valign="top" width="33%">
 
-### Cloud & Deployment
+**Tooling**
+- Python · TensorFlow · PyTorch
+- OpenCV · scikit-learn
+- Cloud Deployment
+- Git / GitHub
 
-[![Cloud tools](https://skillicons.dev/icons?i=gcp,aws,docker,git,github)](#)
+</td>
+</tr>
+</table>
 
-Cloud Computing · Model Deployment · Version Control · Reproducible Research Workflows
+<br>
 
----
+## 🔬 Research timeline
 
-## Featured research projects
+| Year | Project | What it does |
+|---|---|---|
+| 2020–2023 | **BiTNet** | Hybrid deep CNN reading ultrasound images of the human biliary tract, with attention-based explainability — published in *Artificial Intelligence in Medicine* |
+| 2021–2025 | **Opisthorchiasis Rapid-Test Reader** | Computer vision that reads smartphone photos of rapid diagnostic tests for mass parasite screening — published in *Scientific Reports* |
+| 2022 | **DentShadeAI** | Camera-based automatic dental shade matching, calibrated across different phone models |
+| 2023 | **Concealed-Weapon Detection** | Movement-analysis deep learning models for detecting concealed weapons from CCTV — the subject of my MSc thesis |
+| 2023 | **Smartphone Biomarker Detection** | CV pipelines reading quantum-dot fluorescence and gold-nanoparticle color change for cancer-DNA and cytosine detection |
+| 2024 | **Portable Ultrasound Screening** | CNNs for upper-abdominal abnormality detection, optimized to run on portable medical devices |
 
-[#featured-research-projects](#featured-research-projects)
+<br>
 
-- **AI System for Concealed Gun Detection from CCTV via Movement Analysis** (2023) — deep learning models for movement analysis and real-time concealed-weapon detection, built on a curated CCTV/YouTube video dataset.
-- **AI-Powered Innovation for Ultrasound Screening of Upper Abdominal Abnormalities** (2024) — CNNs for automated abnormality detection, optimized for portable medical devices.
-- **BiTNet — Hybrid Deep CNN for Biliary Tract Ultrasound Analysis** (2020–2023) — hybrid CNN architecture with attention-based explainable AI features, published in *Artificial Intelligence in Medicine*.
-- **DentShadeAI** (2022) — mobile-camera-based automatic dental shade matching, published at ITC-CSCC.
-- **Rapid Cancer DNA & Carbon Quantum Dot Detection** (2023) — smartphone-camera computer vision pipelines for biomarker and DNA-mutation detection.
-- **AI-Enhanced Rapid Diagnostic Testing for Mass Opisthorchiasis Screening** (2021–2025) — automated diagnostic test reading from smartphone images, published in *Scientific Reports*.
+## 📚 Publications
 
----
+Co-authored work in **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence in Medicine***, ***PLOS ONE***, ***Scientific Reports***, ***Heliyon***, ***Nanoscale***, and ***ACS Applied Materials & Interfaces*** — mostly on computer vision applied to medical and diagnostic imaging.
 
-## Publications
+→ Full list on [ResearchGate](https://www.researchgate.net/profile/Yupaporn-Wanna)
 
-[#publications](#publications)
+<br>
 
-I have co-authored papers in venues including **IEEE (KST, ITC-CSCC, DICTA)**, ***Artificial Intelligence in Medicine***, ***PLOS ONE***, ***Scientific Reports***, ***Heliyon***, ***Nanoscale***, and ***ACS Applied Materials & Interfaces***, covering computer vision, medical AI, and smartphone-based diagnostics.
+## 🏆 Recognition
 
-📄 Full publication list: [ResearchGate — Yupaporn Wanna](https://www.researchgate.net/profile/Yupaporn-Wanna)
+- **NRCT Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
+- **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," DEPA
+- **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application, NSTDA
+- Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University (2019–2021)
 
----
+<br>
 
-## Achievements
+<div align="center">
 
-[#achievements](#achievements)
+*Open to collaboration on AI, computer vision, and applied-statistics research.*
 
-🏅 **National Research Council of Thailand (NRCT) Innovation Award** — 2022–2024 (3 awards)
-🏅 **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," Digital Economy Promotion Agency (DEPA)
-🥈 **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application category, NSTDA
-🎓 Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University (2019–2021)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A936F,100:0F4C5C&height=100&section=footer" width="100%"/>
 
----
-
-## Contact
-
-[#contact](#contact)
-
-I'm open to collaboration on AI/ML, computer vision, and data science research and projects.
-
-📧 [w_yupaporn@kkumail.com](mailto:w_yupaporn@kkumail.com)
-🔬 [ResearchGate](https://www.researchgate.net/profile/Yupaporn-Wanna)
-🏫 Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, Thailand
+</div>
