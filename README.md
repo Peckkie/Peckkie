@@ -1,13 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,100:1A936F&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=50&animation=fadeIn" width="100%"/>
-<a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
-<a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-w__yupaporn%40kkumail.com-1A936F?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Khon%20Kaen%20University-Visual%20Intelligence%20Lab-0F4C5C?style=flat-square" />
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,35:F2994A,70:E74C3C,100:2F80ED&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-2E8B57?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+<a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-F2994A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Khon%20Kaen%20University-2F80ED?style=for-the-badge" />
+
 </div>
 
+<br>
 
-## 👩🏻‍🔬 About
+![About](https://img.shields.io/badge/-About-2E8B57?style=for-the-badge)
 
 I'm a **Research Assistant** at the Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, where I build AI systems that turn cameras and smartphones into diagnostic and surveillance tools. My background is in **Applied Statistics** — I lean on that statistical grounding whenever I design or evaluate a model, not just when I train one.
 
@@ -15,13 +18,13 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 
 <br>
 
-## 🧬 What I work with
+![What I work with](https://img.shields.io/badge/-What%20I%20Work%20With-F2994A?style=for-the-badge)
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Modeling**
+**🟢 Modeling**
 - Deep Learning (CNN / RNN)
 - Computer Vision
 - Transfer Learning
@@ -30,7 +33,7 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 </td>
 <td valign="top" width="33%">
 
-**Data & Stats**
+**🔵 Data & Stats**
 - Applied Statistics
 - Experimental Design
 - Data Annotation Pipelines
@@ -39,7 +42,7 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 </td>
 <td valign="top" width="33%">
 
-**Tooling**
+**🟠 Tooling**
 - Python · TensorFlow · PyTorch
 - OpenCV · scikit-learn
 - Cloud Deployment
@@ -51,20 +54,20 @@ Most of my work lives at the intersection of **computer vision** and **healthcar
 
 <br>
 
-## 🔬 Research timeline
+![Research timeline](https://img.shields.io/badge/-Research%20Timeline-E74C3C?style=for-the-badge)
 
 | Year | Project | What it does |
 |---|---|---|
-| 2020–2023 | **BiTNet** | Hybrid deep CNN reading ultrasound images of the human biliary tract, with attention-based explainability — published in *Artificial Intelligence in Medicine* |
-| 2021–2025 | **Opisthorchiasis Rapid-Test Reader** | Computer vision that reads smartphone photos of rapid diagnostic tests for mass parasite screening — published in *Scientific Reports* |
-| 2022 | **DentShadeAI** | Camera-based automatic dental shade matching, calibrated across different phone models |
-| 2023 | **Concealed-Weapon Detection** | Movement-analysis deep learning models for detecting concealed weapons from CCTV — the subject of my MSc thesis |
-| 2023 | **Smartphone Biomarker Detection** | CV pipelines reading quantum-dot fluorescence and gold-nanoparticle color change for cancer-DNA and cytosine detection |
-| 2024 | **Portable Ultrasound Screening** | CNNs for upper-abdominal abnormality detection, optimized to run on portable medical devices |
+| 2020–2023 | 🟢 **BiTNet** | Hybrid deep CNN reading ultrasound images of the human biliary tract, with attention-based explainability — published in *Artificial Intelligence in Medicine* |
+| 2021–2025 | 🔵 **Opisthorchiasis Rapid-Test Reader** | Computer vision that reads smartphone photos of rapid diagnostic tests for mass parasite screening — published in *Scientific Reports* |
+| 2022 | 🟠 **DentShadeAI** | Camera-based automatic dental shade matching, calibrated across different phone models |
+| 2023 | 🔴 **Concealed-Weapon Detection** | Movement-analysis deep learning models for detecting concealed weapons from CCTV — the subject of my MSc thesis |
+| 2023 | 🟢 **Smartphone Biomarker Detection** | CV pipelines reading quantum-dot fluorescence and gold-nanoparticle color change for cancer-DNA and cytosine detection |
+| 2024 | 🔵 **Portable Ultrasound Screening** | CNNs for upper-abdominal abnormality detection, optimized to run on portable medical devices |
 
 <br>
 
-## 📚 Publications
+![Publications](https://img.shields.io/badge/-Publications-2F80ED?style=for-the-badge)
 
 Co-authored work in **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence in Medicine***, ***PLOS ONE***, ***Scientific Reports***, ***Heliyon***, ***Nanoscale***, and ***ACS Applied Materials & Interfaces*** — mostly on computer vision applied to medical and diagnostic imaging.
 
@@ -72,12 +75,12 @@ Co-authored work in **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence 
 
 <br>
 
-## 🏆 Recognition
+![Recognition](https://img.shields.io/badge/-Recognition-E74C3C?style=for-the-badge)
 
-- **NRCT Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
-- **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," DEPA
-- **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application, NSTDA
-- Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University (2019–2021)
+- 🏅 **NRCT Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
+- 🏅 **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," DEPA
+- 🥈 **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application, NSTDA
+- 🎓 Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University (2019–2021)
 
 <br>
 
@@ -85,6 +88,6 @@ Co-authored work in **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence 
 
 *Open to collaboration on AI, computer vision, and applied-statistics research.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A936F,100:0F4C5C&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,35:E74C3C,70:F2994A,100:2E8B57&height=100&section=footer" width="100%"/>
 
 </div>
