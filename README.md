@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,35:F2994A,70:E74C3C,100:2F80ED&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,35:F2994A,70:E74C3C,100:2F80ED&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=50&animation=fadeIn" width="100%"/>
 
 <a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-2E8B57?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 <a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-F2994A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
