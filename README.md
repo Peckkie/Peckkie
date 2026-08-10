@@ -12,7 +12,7 @@
 
 ## 👩🏻‍🔬 About
 
-I'm a **Research Assistant** at the Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, where I build AI systems that turn cameras and smartphones into diagnostic and surveillance tools. My background is in **Applied Statistics** (MSc, GPA 3.83) — I lean on that statistical grounding whenever I design or evaluate a model, not just when I train one.
+I'm a **Research Assistant** at the Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University, where I build AI systems that turn cameras and smartphones into diagnostic and surveillance tools. My background is in **Applied Statistics** — I lean on that statistical grounding whenever I design or evaluate a model, not just when I train one.
 
 Most of my work lives at the intersection of **computer vision** and **healthcare / security**: teaching models to read ultrasound scans, dental shades, blood tests, and CCTV footage the way a trained human would, then packaging that into something that runs on ordinary hardware — a phone, a small edge device, a low-cost camera.
 
