@@ -8,7 +8,7 @@
 
 > Research Assistant and AI Engineer working from academic research to applied computer vision and healthcare AI systems.
 
-I am a Research Assistant at the **Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University**, Thailand. I hold an MSc in Applied Statistics (GPA 3.83) and a BSc in Statistics Information (GPA 3.37), both from Khon Kaen University. My work sits at the intersection of **artificial intelligence, machine learning, deep learning, computer vision, data science, and cloud computing**, with an applied focus on medical AI, security/surveillance systems, and smartphone-based diagnostic tools.
+I am a Research Assistant at the **Visual Intelligence Laboratory, Faculty of Science, Khon Kaen University**, Thailand. I hold an MSc in Applied Statistics and a BSc in Statistics Information, both from Khon Kaen University. My work sits at the intersection of **artificial intelligence, machine learning, deep learning, computer vision, data science, and cloud computing**, with an applied focus on medical AI, security/surveillance systems, and smartphone-based diagnostic tools.
 
 ---
 
