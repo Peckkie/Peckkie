@@ -1,14 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,100:1A936F&height=200&section=header&text=Yupaporn%20Wanna&fontSize=48&fontColor=ffffff&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlign=50&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,100:1A936F&height=230&section=header&text=Peckkie&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Applied%20Statistics&descSize=18&descAlignY=50&animation=fadeIn" width="100%"/>
 <a href="https://www.researchgate.net/profile/Yupaporn-Wanna"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
 <a href="mailto:w_yupaporn@kkumail.com"><img src="https://img.shields.io/badge/Email-w__yupaporn%40kkumail.com-1A936F?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Khon%20Kaen%20University-Visual%20Intelligence%20Lab-0F4C5C?style=flat-square" />
-
+ 
 </div>
 
-<br>
 
 ## 👩🏻‍🔬 About
 
