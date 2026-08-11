@@ -18,7 +18,7 @@
 
 ![About](https://img.shields.io/badge/-About-2E8B57?style=for-the-badge)
 
-I'm **Peckkie**, a researcher in the **Department of Statistics, Faculty of Science, Khon Kaen University**, based in the **Visual Intelligence (VI) Lab**. My work applies AI to problems in medicine and public health — reading pathology and ultrasound images, interpreting nanosensor and metabolomic data, and turning smartphones into low-cost diagnostic devices for settings where lab equipment isn't available.
+I'm **Peckkie**, a researcher at the **Visual Intelligence (VI) Lab**, Department of Statistics, Khon Kaen University. Most of my work is about teaching machines to read medical images and sensor data: ultrasound scans, pathology slides, nanosensor readouts, all the way down to a photo taken on a regular smartphone.
 
 I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolomics, Nanodiagnostics, and Mobile Health (mHealth)** — with a statistics background that shapes how I design, validate, and interpret every model.
 
