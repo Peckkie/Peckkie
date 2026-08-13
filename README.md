@@ -67,27 +67,6 @@ I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolom
 </tr>
 </table>
 
-<br>
-
-![Research timeline](https://img.shields.io/badge/-Publications-E74C3C?style=for-the-badge)
-
-| Year | Project | What it does |
-|---|---|---|
-| 2026 | **[TinyAct](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347245)** | Real-time action recognition in the cloud via distillation learning — *PLOS One* |
-| 2025 | **[AI-Enhanced Diagnostic Testing](https://www.nature.com/articles/s41598-025-16893-7)** | Smartphone-based reading platform for mass opisthorchiasis (parasite) screening — *Scientific Reports* |
-| 2025 | **[AISIM](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0322854)** | Evaluating UI elements of an AI-assisting diagnostic tool — *PLOS One* |
-| 2024 | **[CONG](https://ieeexplore.ieee.org/document/10499663/)** | A human-tracking dataset built with a hidden evaluation twist — KST 2024 |
-| 2024 | **[Parasite Egg Detection](https://www.sciencedirect.com/science/article/pii/S2405844024021844)** | Tackling the out-of-domain problem in wild-collected microscopy images — *Heliyon* |
-| 2023 | **[BiTNet](https://doi.org/10.1016/j.artmed.2023.102539)** | Hybrid deep CNN reading ultrasound images of the biliary tract, with attention-based explainability — *Artificial Intelligence in Medicine* |
-| 2023 | **[Carbon Quantum Dot Biomarker Detection](https://pubs.acs.org/doi/10.1021/acsami.3c00785)** | Smartphone reader for cytosine and 5-methylcytosine via fluorescent nanosensors — *ACS Applied Materials & Interfaces* |
-| 2023 | **[Rapid Cancer DNA Detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC9814906)** | Gold-nanoparticle colorimetric sensor read by a machine-learning-enabled smartphone — *RSC Advances* |
-| 2023 | **[OO-Do-Aware Parasite Egg Detection](https://ieeexplore.ieee.org/abstract/document/10212660)** | Out-of-domain-aware detection model for real-world microscopy images — ITC-CSCC 2023 |
-| 2022 | **[DentShadeAI](https://ieeexplore.ieee.org/document/9894968/)** | Camera-based automatic dental shade matching, calibrated across phone models — ITC-CSCC 2022 |
-| 2022 | **[Dual Image QR Codes](https://ieeexplore.ieee.org/document/10034633/)** | Halftone + lenticular QR codes that improve both appearance and data capacity — DICTA 2022 |
-| 2022 | **[Prostate Cancer Lesion Detection](https://ieeexplore.ieee.org/document/9895044/)** | Deep CNNs for detecting prostate cancer lesions in MRI with limited training data — ITC-CSCC 2022 |
-
-<br>
-
 ![Publications](https://img.shields.io/badge/-Publication%20Profile-2E8B57?style=for-the-badge)
 
 12 peer-reviewed papers across **IEEE** (KST, ITC-CSCC, DICTA), ***Artificial Intelligence in Medicine***, ***PLOS One***, ***Scientific Reports***, ***Heliyon***, ***RSC Advances***, and ***ACS Applied Materials & Interfaces*** — spanning medical imaging, nanodiagnostics, and applied computer vision.
