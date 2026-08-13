@@ -77,12 +77,12 @@ I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolom
 
 ![Recognition](https://img.shields.io/badge/-Recognition-F2994A?style=for-the-badge)
 
-- 🏅 **NRCT Invention and Innovation Award**, National Research Council of Thailand — 2022–2024 (×3)
-- 🏅 **Prime Minister's Digital Award 2020** — "Digital Youth of the Year," DEPA
-- 🥈 **1st Runner-Up, NSC Thailand 2020** — Data Science & AI Application, NSTDA
-- 🎓 Honorary Award for Outstanding Academic Achievement, Dept. of Statistics, Khon Kaen University — 2019–2021 (×3)
-- 🎖️ Honorable Mention, KU Data Science Boot Camp Competition #2 — 2018
-- 🎖️ Academic Excellence Award — 2017–2018 (×2)
+- 🏅 Picked up the NRCT Invention and Innovation Award three years running, 2022 to 2024
+- 🏅 In 2020, won Digital Youth of the Year from DEPA
+- 🥈 Same year, took 1st runner-up at NSC Thailand in the Data Science and AI category, run by NSTDA
+- 🎓 Back in school, got the Outstanding Academic Achievement award from the Stats department three years straight, 2019-2021
+- 🎖️ Honorable Mention at Kasetsart's Data Science Boot Camp in 2018
+- 🎖️ A couple of Academic Excellence Awards in 2017-2018
 
 <br>
 
