@@ -9,8 +9,8 @@
 <br>
 
 <img src="https://img.shields.io/badge/H--Index-5-2E8B57?style=flat-square" />
-<img src="https://img.shields.io/badge/Citations-80-F2994A?style=flat-square" />
-<img src="https://img.shields.io/badge/Research%20Interest%20Score-63.9-2F80ED?style=flat-square" />
+<img src="https://img.shields.io/badge/Citations-87-F2994A?style=flat-square" />
+<img src="https://img.shields.io/badge/Research%20Interest%20Score-66-2F80ED?style=flat-square" />
 
 </div>
 
