@@ -20,8 +20,6 @@
 
 I'm **Peckkie**, a researcher at the **Visual Intelligence (VI) Lab**, Department of Statistics, Khon Kaen University. Most of my work is about teaching machines to read medical images and sensor data: ultrasound scans, pathology slides, nanosensor readouts, all the way down to a photo taken on a regular smartphone.
 
-I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolomics, Nanodiagnostics, and Mobile Health (mHealth)** — with a statistics background that shapes how I design, validate, and interpret every model.
-
 <br>
 
 ![What I work with](https://img.shields.io/badge/-What%20I%20Work%20With-F2994A?style=for-the-badge)
@@ -77,12 +75,12 @@ I focus on **Medical AI, Digital Pathology, Biomedical Image Analysis, Metabolom
 
 ![Recognition](https://img.shields.io/badge/-Recognition-F2994A?style=for-the-badge)
 
-- 🏅 Picked up the NRCT Invention and Innovation Award three years running, 2022 to 2024
-- 🏅 In 2020, won Digital Youth of the Year from DEPA
-- 🥈 Same year, took 1st runner-up at NSC Thailand in the Data Science and AI category, run by NSTDA
-- 🎓 Back in school, got the Outstanding Academic Achievement award from the Stats department three years straight, 2019-2021
-- 🎖️ Honorable Mention at Kasetsart's Data Science Boot Camp in 2018
-- 🎖️ A couple of Academic Excellence Awards in 2017-2018
+- 🏅 NRCT Invention and Innovation Award, National Research Council of Thailand — 3 awards (2022-2024)
+- 🏅 Digital Youth of the Year, Digital Economy Promotion Agency (DEPA) — 1 award (2020)
+- 🥈 1st Runner-Up, NSC Thailand, Data Science and AI Application category, NSTDA — 1 award (2020)
+- 🎓 Outstanding Academic Achievement Award, Khon Kaen University — 3 awards (2019-2021)
+- 🎖️ Honorable Mention, KU Data Science Boot Camp Competition #2, Kasetsart University — 1 award (2018)
+- 🎖️ Academic Excellence Award — 2 awards (2017, 2018)
 
 <br>
 
